@@ -19,3 +19,6 @@ npx cypress open
 En la carpeta cypress/e2e, crea un nuevo archivo de especificación para tu nuevo caso de prueba.
 Escribe los pasos y aserciones necesarios para probar la funcionalidad deseada.
 Guarda el archivo y vuelve a ejecutar Cypress siguiendo los pasos anteriores.
+
+## nota 
+Tener en cuenta de modificar el usuario y contraseñana antes de correr las pruebas
